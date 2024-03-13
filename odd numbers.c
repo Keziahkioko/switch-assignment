@@ -7,7 +7,7 @@ int main() {
     while (number >= 21) {
 
             printf("%d\n", number);
-        number-=53;
+        number-=2;
     }
     return 0;
 }
